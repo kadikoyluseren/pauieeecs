@@ -1,0 +1,2 @@
+# pauieeecs
+Github eğitimi
